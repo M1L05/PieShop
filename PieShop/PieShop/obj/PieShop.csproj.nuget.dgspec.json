@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\tutorijal\\111\\PieShop\\PieShop\\PieShop.csproj": {}
+    "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\jako bitne stvari\\pieshop\\PieShop\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\tutorijal\\111\\PieShop\\PieShop\\PieShop.csproj": {
+    "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\jako bitne stvari\\pieshop\\PieShop\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\tutorijal\\111\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\jako bitne stvari\\pieshop\\PieShop\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\tutorijal\\111\\PieShop\\PieShop\\PieShop.csproj",
+        "projectPath": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\jako bitne stvari\\pieshop\\PieShop\\PieShop\\PieShop.csproj",
         "packagesPath": "C:\\Users\\Milos PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\tutorijal\\111\\PieShop\\PieShop\\obj\\",
+        "outputPath": "C:\\Users\\Milos PC\\Desktop\\DESKTOP\\jako bitne stvari\\pieshop\\PieShop\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milos PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
