@@ -13,3 +13,18 @@ C:\Users\Milos PC\source\repos\PieShop\PieShop\obj\Debug\net6.0\refint\PieShop.d
 C:\Users\Milos PC\source\repos\PieShop\PieShop\obj\Debug\net6.0\PieShop.pdb
 C:\Users\Milos PC\source\repos\PieShop\PieShop\obj\Debug\net6.0\PieShop.genruntimeconfig.cache
 C:\Users\Milos PC\source\repos\PieShop\PieShop\obj\Debug\net6.0\ref\PieShop.dll
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\bin\Debug\net6.0\PieShop.exe
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\bin\Debug\net6.0\PieShop.deps.json
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\bin\Debug\net6.0\PieShop.runtimeconfig.json
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\bin\Debug\net6.0\PieShop.dll
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\bin\Debug\net6.0\PieShop.pdb
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.csproj.AssemblyReference.cache
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.AssemblyInfoInputs.cache
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.AssemblyInfo.cs
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.csproj.CoreCompileInputs.cache
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.dll
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\refint\PieShop.dll
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.pdb
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\PieShop.genruntimeconfig.cache
+C:\Users\Milos PC\Desktop\DESKTOP\jako bitne stvari\pieshop\PieShop\PieShop\obj\Debug\net6.0\ref\PieShop.dll

@@ -19,6 +19,26 @@ namespace PieShop
         public DateTime birthDay;
 
         const int minimalHoursWorkedUnit = 1;
+
+        public Employee(string first, string last, string em, DateTime bd) : this(first, last, em, bd, 0)
+        {
+
+        }
+
+
+        public Employee(string first, string last, string em, DateTime bd, double rate) 
+        {
+            firstName = first;
+            lastName = last;
+            email = em;
+            birthDay = bd;
+            hourlyRate = rate;
+             
+
+        }
+
+
+
         public void PerformWork()
         {
             //numberOfHoursWorked++;
@@ -44,10 +64,8 @@ namespace PieShop
         }
         public void DisplayEmployeeDetails()
         {
-            Console.WriteLine($"\n First name : \t{firstName}\nLast name: \t{lastName}\nEmail:\t\t{email}\nBirthday: \t{birthDay.ToShortDateString()}\n");
+            Console.WriteLine($"\nFirst name : \t{firstName}\nLast name: \t{lastName}\nEmail:\t\t{email}\nBirthday: \t{birthDay.ToShortDateString()}\n");
         }
-        cxzczxc
-            sdsds
-            545645
+       
     }
 }
